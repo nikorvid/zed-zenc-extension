@@ -1,5 +1,5 @@
-id = "zed-zenc-extension"
-name = "Zed Zen-C Extension"
+id = "zen-c-lang-lsp"
+name = "Zen-C Language Support"
 version = "0.1.0"
 authors = ["nikorvid"]
-description = "Minimal Zenc language support for zc-lsp"
+description = "Minimal Zenc language support, requires zc-lsp"
