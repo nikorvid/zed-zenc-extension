@@ -66,4 +66,4 @@ If `zc-lsp` is not on your `PATH`, you can specify its location in `~/.config/ze
 
 ## License
 
-Same as the Zenc project (see upstream repository for details).
+MIT
