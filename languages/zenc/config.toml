@@ -1,0 +1,5 @@
+name = "Zenc"
+grammar = "c"
+path_suffixes = ["zc"]
+line_comments = ["// "
+]

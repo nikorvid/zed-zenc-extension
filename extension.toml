@@ -1,0 +1,5 @@
+id = "zed-zenc-extension"
+name = "Zed Zen-C Extension"
+version = "0.1.0"
+authors = ["nikorvid"]
+description = "Minimal Zenc language support for zc-lsp"
